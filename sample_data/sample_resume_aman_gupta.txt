@@ -1,0 +1,21 @@
+Aman Gupta
+Email: aman.gupta@email.com
+
+Summary:
+Frontend web developer with experience building responsive web applications
+using React and JavaScript.
+
+Education:
+BCA, Mumbai University, 2022
+
+Skills:
+JavaScript, React, HTML, CSS, Node.js, Git, MongoDB
+
+Experience:
+Frontend Developer, WebNest Solutions (2022 - Present)
+- Built responsive UIs using React and CSS
+- Integrated REST APIs into React applications
+- Used Git and GitHub for version control
+
+Certifications:
+None

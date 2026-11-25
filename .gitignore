@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+resume_screening.db
+.streamlit/
+.DS_Store

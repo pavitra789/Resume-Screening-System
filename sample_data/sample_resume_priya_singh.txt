@@ -1,0 +1,21 @@
+Priya Singh
+Email: priya.singh@email.com
+
+Summary:
+Data enthusiast with 2 years experience in Python programming and data
+analysis. Currently upskilling in machine learning.
+
+Education:
+B.Sc in Statistics, Delhi University, 2021
+
+Skills:
+Python, Pandas, NumPy, SQL, Excel, Matplotlib, Data Analysis, Tableau
+
+Experience:
+Data Analyst, Insight Analytics (2022 - Present)
+- Performed data cleaning and analysis using Python and Pandas
+- Built dashboards in Tableau and Excel for business reporting
+- Wrote SQL queries to extract data from relational databases
+
+Certifications:
+Udemy - Python for Data Science

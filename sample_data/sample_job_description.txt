@@ -1,0 +1,27 @@
+Job Title: Python Developer (Data Science Focus)
+
+We are looking for a skilled Python Developer with strong experience in data
+science and machine learning to join our analytics team.
+
+Responsibilities:
+- Build and maintain data pipelines using Python, Pandas, and NumPy
+- Develop machine learning models using Scikit-learn
+- Perform data cleaning, analysis, and visualization using Matplotlib and Seaborn
+- Work with SQL databases to extract and transform data
+- Build REST APIs using Flask to serve model predictions
+- Collaborate with cross-functional teams using Git and GitHub
+
+Required Skills:
+- Strong proficiency in Python
+- Experience with Pandas, NumPy, Scikit-learn
+- Knowledge of SQL and relational databases
+- Familiarity with Flask or Django for web development
+- Understanding of machine learning algorithms and statistics
+- Experience with data visualization tools (Matplotlib, Seaborn, Power BI)
+- Familiarity with version control (Git)
+
+Preferred Qualifications:
+- Bachelor's degree in Computer Science, Data Science, or related field
+- 2+ years of experience in Python development or data science
+- Experience with cloud platforms (AWS or Azure)
+- Exposure to NLP or deep learning frameworks (TensorFlow, PyTorch)
